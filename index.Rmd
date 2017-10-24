@@ -1,0 +1,10 @@
+---
+title: "Yutian Mu"
+output: html_document
+---
+####MS in Biostastistics, Columbia University Mailman School of Public Health
+ 
+I'm a first year biostatistics student at columbia university mailman school of public health. Before coming here, I received a BS in biological sciences in China, and I gained research experience in bioinformatics. I am currently studying R and know basicly about data management and visualization. And I am a SAS certified base programmer.
+
+
+**My resume is available [here](Yutian Mu_Resume.pdf)**
