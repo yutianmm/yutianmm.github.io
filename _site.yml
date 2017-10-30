@@ -7,6 +7,8 @@ navbar:
       href: https://github.com/yutianmm
     - icon: fa-envelope-o fa-lg
       href: mailto:<ym2649@cumc.columbia.edu>
+    - icon: fa-linkedin-square fa-lg
+      href: https://www.linkedin.com/in/yutian-mu-145991149/
     
 output:
   html_document
